@@ -46,7 +46,7 @@ function ToDoList() {
             <input 
                 type='text'
                 placeholder='Add New Task...'
-                value={newtask}
+                value={newTsask}
                 onChange={HandleInputChange}
                 />
             <button
